@@ -12,6 +12,16 @@ https://namanhh99.github.io/Graph-Path-Find-Algorithm/
 3. Depth First Search
 
 
+## Dijkstra:
+![](https://github.com/NamanHH99/Graph-Path-Find-Algorithm/blob/master/public/images/Dijkstra.gif)
+
+## BFS:
+![](https://github.com/NamanHH99/Graph-Path-Find-Algorithm/blob/master/public/images/BFS.gif)
+
+## DFS:
+![](https://github.com/NamanHH99/Graph-Path-Find-Algorithm/blob/master/public/images/DFS.gif)
+
+
 
 
 
