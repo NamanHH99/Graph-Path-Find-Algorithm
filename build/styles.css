@@ -176,8 +176,15 @@ html {
   color: #fff;
   font-family: "McLaren", cursive;
   font-weight: 200;
+  position: relative;
 }
-
+.heading h1{
+  display: inline-block;
+}
+.heading button{
+  position: absolute;
+  right: 230px;
+}
 .copyright{
   background-color: #f5ba13;
   margin: 10px 0px 0px 0px;
